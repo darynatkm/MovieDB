@@ -29,8 +29,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](img/MovieDB.png)
-[![Product Name Screen Shot][product-screenshot]](img/MovieDB2.png)
+![Product Name Screen Shot](img/MovieDB.png)
+![Product Name Screen Shot](img/MovieDB2.png)
 The app is created with MovieDB API to display the most popular films at the moment and to add any interesting ones to the watch list. 
 
 
@@ -43,10 +43,6 @@ The app is created with MovieDB API to display the most popular films at the mom
 * [![MovieDB][MovieDB]][https://www.themoviedb.org/documentation/api]
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -54,7 +50,7 @@ Daryna Tokmachova  - darynatokmachova@gmail.com
 
 Project Link: [https://github.com/darynatkm/MovieDB](https://github.com/darynatkm/MovieDB)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
