@@ -40,7 +40,7 @@ The app is created with MovieDB API to display the most popular films at the mom
 
 ### Built With
 
-* [![MovieDB][MovieDB]][https://www.themoviedb.org/documentation/api]
+* ![MovieDB](https://www.themoviedb.org/documentation/api)
 
 
 <!-- CONTACT -->
