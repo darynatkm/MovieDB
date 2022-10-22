@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/darynatkm/MovieDB">
-    <img src="img/MovieDB.png" alt="Logo" width="80" height="80">
+    <img src="img/movieDB.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">MovieDB</h3>
@@ -29,8 +29,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](img/MovieDB.png)
-![Product Name Screen Shot](img/MovieDB2.png)
+![Product Name Screen Shot](img/movieDB.png)
+![Product Name Screen Shot](img/movieDB2.png)
 The app is created with MovieDB API to display the most popular films at the moment and to add any interesting ones to the watch list. 
 
 
@@ -40,7 +40,7 @@ The app is created with MovieDB API to display the most popular films at the mom
 
 ### Built With
 
-* ![MovieDB](https://www.themoviedb.org/documentation/api)
+* ![MovieDB][https://www.themoviedb.org/documentation/api]
 
 
 <!-- CONTACT -->
